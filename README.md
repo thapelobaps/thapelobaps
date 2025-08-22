@@ -16,16 +16,29 @@
 ---
 
 ### 🌟 Featured Projects  
-🔹 [WeCareDentist](#) – Secure dental booking & management system (Blazor + .NET 9 API)  
-🔹 [Lawn-Mowing Service](#) – Booking platform with conflict management (ASP.NET MVC)  
-🔹 [Smart IoT Car](#) – Arduino + Kotlin based IoT project  
+🔹 **WeCareDentist** – Secure dental booking & management system *(Blazor + .NET 9 API)*  
+🔹 **Lawn-Mowing Service** – Booking platform with conflict management *(ASP.NET MVC + Tailwind + React)*  
+🔹 **Smart IoT Car** – Arduino + Kotlin based IoT project  
+
+---
+
+### 💡 Personal & Side Projects  
+🔸 **INNVTVE Studio E-Commerce** → [Live Demo](https://innvtve-studio-tawny.vercel.app/)  
+&nbsp;&nbsp;&nbsp;🛍️ Modern e-commerce site with responsive design and secure checkout.  
+
+🔸 **INNVTVE Official Website** → [Live Demo](https://innvtve.vercel.app/)  
+&nbsp;&nbsp;&nbsp;🌐 Business website showcasing creative services and digital solutions.  
+
+🔸 **Portfolio Website** → [Live Demo](https://thapelobapela.vercel.app)  
+&nbsp;&nbsp;&nbsp;🎨 Personal developer portfolio highlighting my work and skills.  
 
 ---
 
 ### 📫 Connect With Me  
 🌍 [Portfolio Website](https://thapelobapela.vercel.app)  
-💼 [LinkedIn](https://linkedin.com/in/thapelobapela)  
-📧 thapelo@example.com (or keep private if you prefer)
+💼 [LinkedIn](https://www.linkedin.com/in/thapelo-bapela-859a5471/)  
+📧 thapelobaps@gmail.com  
 
 ---
 ⭐️ Always open to collaboration on exciting projects!
+
