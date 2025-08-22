@@ -72,9 +72,7 @@ Personal developer portfolio highlighting my work and skills.
 ---
 
 ### 📫 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://thapelobapela.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thapelo-bapela-859a5471/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thapelobaps@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://thapelobapela.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thapelo-bapela-859a5471/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thapelobaps@gmail.com)
 
 ---
 
