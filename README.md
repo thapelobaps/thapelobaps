@@ -65,7 +65,6 @@ Personal developer portfolio highlighting my work and skills.
 ---
 
 ### 📊 GitHub Stats  
-![Thapelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thapelobaps&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thapelobaps&layout=compact&theme=radical)  
 
