@@ -59,6 +59,9 @@ Modern e-commerce site with responsive design and secure checkout.
 [![INNVTVE Website](https://img.shields.io/badge/INNVTVE_Website-FF4C00?style=for-the-badge&logo=vercel&logoColor=white)](https://innvtve.vercel.app/)  
 Business website showcasing creative services and digital solutions.  
 
+[![Mankete Group Website](https://img.shields.io/badge/Mankete_Group-0078D4?style=for-the-badge&logo=vercel&logoColor=white)](https://mankete-group.vercel.app/)  
+Business website showcasing smart home automation, CCTV, fiber, and estate security solutions across South Africa.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://thapelobapela.vercel.app)  
 Personal developer portfolio highlighting my work and skills.  
 
