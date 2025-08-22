@@ -41,9 +41,9 @@
 
 ---
 
-![Thapelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thapelobapela&show_icons=true&theme=radical)
+![Thapelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thapelobaps&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thapelobapela&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thapelobaps&layout=compact&theme=radical)
 
 ---
 ⭐️ Always open to collaboration on exciting projects!
