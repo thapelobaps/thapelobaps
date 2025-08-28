@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thapelo Bapela  
 
-💻 **Software Developer | Full-Stack (C#, .NET, Blazor, React, Angular, SQL)**  
+💻 **Software Developer | Full-Stack (C#, .NET, Python, Blazor, React, Angular, SQL)**  
 🚀 Passionate about building scalable web apps, systems & APIs  
 🌱 Currently exploring **Cloud, DevOps & AI**  
 📍 Based in Pretoria, South Africa  
